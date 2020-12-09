@@ -1,5 +1,5 @@
 <h1 align='center'>
-Hi there, I'm Troy Moreland (aka Graypes). :mask: :wave:
+Hi there, I'm Troy Moreland (aka Graypes). :mask: :man_technologist: :wave:
 </h1>
 
 <p align='center'>
