@@ -40,17 +40,25 @@ I'm currently working on several apps under my new company name, 34 Fame, LLC.
 <h3>Core Tech Stack</h3>
 
 <p>
-  <img alt="javascript" src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
+  <a href="https://quasar.dev">
+    <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
+  </a>
 
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <a href="https://vuejs.org">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  </a>
 
-  <img alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <a href="https://nodejs.org">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  </a>
 
-  <img alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <a href="https://expressjs.com">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  </a>
 
-  <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-
-  <img alt="google cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <a href="https://expressjs.com">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black" />
+  </a>
 </p>
 
 ---
