@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Troy Moreland. 👋
 
-<!--
-**tmoreland72/tmoreland72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I consider myself an Indie, full-stack developer.  I retired from from my previous business in 2019.  I built that business from a 1 person solo act to a 120 person software company over a course of 15 years.  Now I'm back to coding and building tools and apps that I enjoy using in hopes that others will to.
 
-Here are some ideas to get you started:
+### Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on several projects
+  - KeeperRx - Take control of your medical life!
+  - Conflux
+- ⚡ Fun fact: I started my programming career as a Marine in 1991
+
+### Connect
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://graypes.medium.com)
+
+### Tech Stack
