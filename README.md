@@ -17,9 +17,9 @@ I have kids in middle and high school.  We have been gamers since they were old 
 :heart: KeeperRx - Take control of your medical life!
 :write: Conflux
 
-<h3>Connect</h3>
+<h3>Find Me</h3>
 
-<p align='center'>
+<p>
   <a href="https://graypes.medium.com">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
@@ -33,18 +33,19 @@ I have kids in middle and high school.  We have been gamers since they were old 
 
 <h3>Core Tech Stack</h3>
 
-<img align="left" alt="javascript" src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
+<p>
+  <img align="left" alt="javascript" src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
 
-<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-<img align="left" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="left" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
-<img align="left" alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img align="left" alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 
-<img align="left" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img align="left" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 
-<img align="left" alt="google cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-
+  <img align="left" alt="google cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
 
 <h2>Gaming<h2>
 
