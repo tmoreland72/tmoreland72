@@ -6,9 +6,9 @@ Hi there, I'm Troy Moreland (aka Graypes). :mask: :man_technologist: :wave:
 Currently, I am a functional full-stack developer.
 </p>
 
-> I retired from from my previous business, [Identity Automation](https://www.identityautomation.com) in 2019.  I built that business from a 1 person solo act to a 120+ person software company over a course of 15 years.  Now I'm back to coding and building tools and apps that I enjoy using in hopes that others will to.
+> :thinking: Fun fact #1: I started my programming career as a Marine in 1991.  I was originally taught COBOL and then spent the remainder of my career 4-year tour developing in ADA while helping support the largest connected network in the world (running Banyan Vines).  I spent time in California, North Carolina, Virginia and Okinawa, Japan.
 
-> ⚡ Fun fact: I started my programming career as a Marine in 1991.  I was originally taught COBOL and then spent the remainder of my career 4-year tour developing in ADA while helping support the largest connected network in the world (running Banyan Vines).  I spent time in California, North Carolina, Virginia and Okinawa, Japan.
+> :thinking: Fun fact #2: I retired from from my previous business, [Identity Automation](https://www.identityautomation.com) in 2019.  I built that business from a 1 person solo act to a 120+ person software company over a course of 15 years.  Now I'm back to coding and building tools and apps that I enjoy using in hopes that others will to.
 
 I have kids in middle and high school.  We have been gamers since they were old enough to sit at a computer.  That is where I am "Graypes O'Wrathe".
 
