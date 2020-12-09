@@ -20,7 +20,7 @@ I'm currently working on several apps under my new company name, 34 Fame, LLC.
 
 <ul>
   <li>:heart: KeeperRx - Take control of your medical life!</li>
-  <li>:writing_hand: Conflux - You can create anything by writing!</li>
+  <li>:writing_hand: Conflux - You can make anything by writing!</li>
 </ul>
 
 <h3>Find Me</h3>
