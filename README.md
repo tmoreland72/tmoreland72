@@ -12,10 +12,16 @@ Currently, I am a functional full-stack developer.
 
 I have kids in middle and high school.  We have been gamers since they were old enough to sit at a computer.  That is where I am "Graypes O'Wrathe".
 
-<h2>Working</h2>
+---
 
-:heart: KeeperRx - Take control of your medical life!
-:write: Conflux
+## Work
+
+I'm currently working on several apps under my new company name, 34 Fame, LLC.
+
+<ul>
+  <li>:heart: KeeperRx - Take control of your medical life!</li>
+  <li>:write_hand: Conflux - You can create anything by writing!</li>
+</ul>
 
 <h3>Find Me</h3>
 
@@ -47,7 +53,9 @@ I have kids in middle and high school.  We have been gamers since they were old 
   <img align="left" alt="google cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-<h2>Gaming<h2>
+---
+
+## Play
 
 <h3>Currently Playing</h3>
 
