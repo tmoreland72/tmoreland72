@@ -4,8 +4,8 @@
 I consider myself an Indie, full-stack developer.  I retired from from my previous business in 2019.  I built that business from a 1 person solo act to a 120 person software company over a course of 15 years.  Now I'm back to coding and building tools and apps that I enjoy using in hopes that others will to.
 </p>
 
-⚡ Fun fact: I started my programming career as a Marine in 1991
-  I was originally taught COBOL and then spent the remainder of my career developing in ADA while helping support the largest connected network in the world (running Banyan Vines).
+> ⚡ Fun fact: I started my programming career as a Marine in 1991
+>  I was originally taught COBOL and then spent the remainder of my career developing in ADA while helping support the largest connected network in the world (running Banyan Vines).
 
 I have kids in middle and high school.  We have been gamers since they were old enough to sit at a computer.  That is where I am "Graypes O'Wrathe".
 
