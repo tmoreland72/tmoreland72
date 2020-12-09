@@ -20,13 +20,15 @@ I have kids in middle and high school.  We have been gamers since they were old 
 <h3>Connect</h3>
 
 <p align='center'>
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://graypes.medium.com)
-
-[<img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/377648989627219969)
-
-[<img align="left" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />](https://geekforceacademy.slack.com/team/UMMRHTMDZ)
-
-[<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/tmoreland72)
+  <a href="https://graypes.medium.com">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/377648989627219969">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/tmoreland72">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <h3>Core Tech Stack</h3>
