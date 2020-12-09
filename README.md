@@ -20,7 +20,7 @@ I'm currently working on several apps under my new company name, 34 Fame, LLC.
 
 <ul>
   <li>:heart: KeeperRx - Take control of your medical life!</li>
-  <li>:write_hand: Conflux - You can create anything by writing!</li>
+  <li>:writing_hand: Conflux - You can create anything by writing!</li>
 </ul>
 
 <h3>Find Me</h3>
@@ -56,7 +56,7 @@ I'm currently working on several apps under my new company name, 34 Fame, LLC.
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   </a>
 
-  <a href="https://expressjs.com">
+  <a href="https://firebase.google.com">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black" />
   </a>
 </p>
