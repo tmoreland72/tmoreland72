@@ -35,7 +35,9 @@ I have kids in middle and high school.  We have been gamers since they were old 
 [<img align="left" alt="google cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />]
 
 
-## Currently Playing
+## Gaming
+
+### Currently Playing
 
 In no particular order, here are the games I play with my kids:
 
@@ -46,7 +48,7 @@ In no particular order, here are the games I play with my kids:
 - Call of Duty
 - Madden NFL
 
-## Games I Used to Play
+## Used to Play
 
 - Everquest
 - Star Wars - The Old Replublic
