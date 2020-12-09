@@ -10,6 +10,9 @@ I consider myself an Indie, full-stack developer.  I retired from from my previo
 - ⚡ Fun fact: I started my programming career as a Marine in 1991
 
 ### Connect
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://graypes.medium.com)
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][https://graypes.medium.com]
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />]
 
 ### Tech Stack
