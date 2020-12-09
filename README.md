@@ -1,6 +1,8 @@
 ### Hi there, I'm Troy Moreland (aka Graypes). 👋
 
+<p align='center'>
 I consider myself an Indie, full-stack developer.  I retired from from my previous business in 2019.  I built that business from a 1 person solo act to a 120 person software company over a course of 15 years.  Now I'm back to coding and building tools and apps that I enjoy using in hopes that others will to.
+</p>
 
 ⚡ Fun fact: I started my programming career as a Marine in 1991
   I was originally taught COBOL and then spent the remainder of my career developing in ADA while helping support the largest connected network in the world (running Banyan Vines).
@@ -24,15 +26,17 @@ I have kids in middle and high school.  We have been gamers since they were old 
 
 ### Core Tech Stack
 
-[<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />]
+<img align="left" alt="javascript" src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
 
-[<img align="left" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />]
+<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-[<img align="left" alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />]
+<img align="left" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
-[<img align="left" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />]
+<img align="left" alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 
-[<img align="left" alt="google cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />]
+<img align="left" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+
+<img align="left" alt="google cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
 
 ## Gaming
