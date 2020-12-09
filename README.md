@@ -3,19 +3,21 @@ Hi there, I'm Troy Moreland (aka Graypes). :mask: :wave:
 </h1>
 
 <p align='center'>
-Currently, I am a functional full-stack developer.  I retired from from my previous business, [Identity Automation](https://www.identityautomation.com) in 2019.  I built that business from a 1 person solo act to a 120+ person software company over a course of 15 years.  Now I'm back to coding and building tools and apps that I enjoy using in hopes that others will to.
+Currently, I am a functional full-stack developer.
 </p>
+
+> I retired from from my previous business, [Identity Automation](https://www.identityautomation.com) in 2019.  I built that business from a 1 person solo act to a 120+ person software company over a course of 15 years.  Now I'm back to coding and building tools and apps that I enjoy using in hopes that others will to.
 
 > ⚡ Fun fact: I started my programming career as a Marine in 1991.  I was originally taught COBOL and then spent the remainder of my career 4-year tour developing in ADA while helping support the largest connected network in the world (running Banyan Vines).  I spent time in California, North Carolina, Virginia and Okinawa, Japan.
 
 I have kids in middle and high school.  We have been gamers since they were old enough to sit at a computer.  That is where I am "Graypes O'Wrathe".
 
-## Working
+<h2>Working</h2>
 
 :heart: KeeperRx - Take control of your medical life!
 :write: Conflux
 
-### Connect
+<h3>Connect</h3>
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://graypes.medium.com)
 
@@ -25,7 +27,7 @@ I have kids in middle and high school.  We have been gamers since they were old 
 
 [<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/tmoreland72)
 
-### Core Tech Stack
+<h3>Core Tech Stack</h3>
 
 <img align="left" alt="javascript" src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
 
@@ -40,9 +42,9 @@ I have kids in middle and high school.  We have been gamers since they were old 
 <img align="left" alt="google cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
 
-## Gaming
+<h2>Gaming<h2>
 
-### Currently Playing
+<h3>Currently Playing</h3>
 
 In no particular order, here are the games I play with my kids:
 
@@ -53,7 +55,9 @@ In no particular order, here are the games I play with my kids:
 - Call of Duty
 - Madden NFL
 
-## Used to Play
+<h3>PC Games from My Past</h3>
+
+Over the years I played a lot of games.  Here is a list of some of my old favorites.
 
 - Everquest
 - Star Wars - The Old Replublic
@@ -61,4 +65,9 @@ In no particular order, here are the games I play with my kids:
 - Sim City
 - World of Warcraft
 - Wizards 101 (kids first MMO)
-- Diablo III
+- Diablo
+- Duke Nukem (Hail to the King, Baby!!)
+- Doom
+- Quake
+- Warcraft
+- Command & Conquer
