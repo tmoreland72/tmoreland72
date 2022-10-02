@@ -103,7 +103,7 @@
   </a>
 
   <a href="https://jestjs.io">
-    <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=black" />
+    <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   </a>
 
   <a href="https://json.org">
@@ -111,7 +111,7 @@
   </a>
 
   <a href="https://mongodb.com">
-    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=black" />
+    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   </a>
 
   <a href="https://www.mysql.com">
@@ -143,7 +143,7 @@
   </a>
 
   <a href="https://sass-lang.com">
-    <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=black" />
+    <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   </a>
 
   <a href="https://serverless.com">
