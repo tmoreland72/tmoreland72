@@ -1,3 +1,4 @@
+<img src="github-banner.svg">
 <h1 align='center'>
 Hi there, I'm Troy Moreland (aka Graypes). :mask: :man_technologist: :wave:
 </h1>
