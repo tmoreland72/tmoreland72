@@ -1,4 +1,5 @@
 <img src="github-banner.svg">
+<img src="work-history.svg">
 <h1 align='center'>
 Hi there, I'm Troy Moreland (aka Graypes). :mask: :man_technologist: :wave:
 </h1>
