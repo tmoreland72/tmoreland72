@@ -32,14 +32,14 @@
 ## Find Me
 
 <p>
-  <a href="https://graypes.medium.com">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
   <a href="https://discordapp.com/users/377648989627219969">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/tmoreland72">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/troy-moreland/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -48,24 +48,121 @@
 ## Technology Skills
 
 <p>
-  <a href="https://quasar.dev">
-    <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
+  <a href="https://www.algolia.com">
+    <img src="https://img.shields.io/badge/algolia-5468FF?style=for-the-badge&logo=algolia&logoColor=white" />
+  </a>
+</p>
+
+  <a href="https://aws.amazon.com">
+    <img src="https://img.shields.io/badge/Amazon-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
 
-  <a href="https://vuejs.org">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <a href="https://getbootstrap.com">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </a>
+
+  <a href="https://chartjs.org">
+    <img src="https://img.shields.io/badge/chartjs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  </a>
+
+  <a href="https://cypress.io">
+    <img src="https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  </a>
+
+  <a href="https://electronjs.org">
+    <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  </a>
+
+  <a href="https://expressjs.com">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  </a>
+
+  <a href="https://figma.com">
+    <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </a>
+
+  <a href="https://firebase.google.com">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black" />
+  </a>
+
+  <a href="https://git-scm.com">
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+
+  <a href="https://cloud.google.com">
+    <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  </a>
+
+  <a href="https://graphql.org">
+    <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  </a>
+
+  <a href="https://javascript.com">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+
+  <a href="https://jestjs.io">
+    <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=black" />
+  </a>
+
+  <a href="https://json.org">
+    <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white" />
+  </a>
+
+  <a href="https://mongodb.com">
+    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=black" />
+  </a>
+
+  <a href="https://www.mysql.com">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+
+  <a href="https://nestjs.com">
+    <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   </a>
 
   <a href="https://nodejs.org">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   </a>
 
-  <a href="https://expressjs.com">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <a href="https://php.net">
+    <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   </a>
 
-  <a href="https://firebase.google.com">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black" />
+  <a href="https://www.postgresql.org">
+    <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+
+  <a href="https://python.org">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=pyton&logoColor=white" />
+  </a>
+
+  <a href="https://quasar.dev">
+    <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
+  </a>
+
+  <a href="https://sass-lang.com">
+    <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=black" />
+  </a>
+
+  <a href="https://serverless.com">
+    <img src="https://img.shields.io/badge/serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />
+  </a>
+
+  <a href="https://www.microsoft.com">
+    <img src="https://img.shields.io/badge/sqlserver-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  </a>
+
+  <a href="https://typescriptlang.org">
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+
+  <a href="https://vuejs.org">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  </a>
+
+  <a href="https://xstate.js.org">
+    <img src="https://img.shields.io/badge/xstate-2C3E50?style=for-the-badge&logo=xstate&logoColor=white" />
   </a>
 </p>
 
