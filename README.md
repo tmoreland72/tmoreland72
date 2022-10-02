@@ -1,31 +1,35 @@
 <img src="github-banner.svg">
 <img src="work-history.svg">
-<h1 align='center'>
-Hi there, I'm Troy Moreland (aka Graypes). :mask: :man_technologist: :wave:
-</h1>
-
-<p align='center'>
-Currently, I am an independent, full-stack developer.
-</p>
-
-> :thinking: Fun fact #1: I started my programming career as a Marine in 1991.  I was originally taught COBOL and then spent the remainder of my 4-year obligation developing in ADA while helping support the largest connected network in the world (running Banyan Vines).  I spent time in California, North Carolina, Virginia and Okinawa, Japan.  ...funny thing was I wanted to be a sniper but scored too high on the ASVAB...
-
-> :thinking: Fun fact #2: I retired from from my previous business, [Identity Automation](https://www.identityautomation.com) in 2019.  I built that business from a 1 person solo act to a 120+ person software company over a course of 15 years.  Now I'm back to coding and building tools and apps that I enjoy using in hopes that others will to.
-
-I have kids in middle and high school.  We have been gamers since they were old enough to sit at a computer.  That is where I am "Graypes O'Wrathe".
 
 ---
 
-## Work
+## Key Successes
 
-I'm currently working on several apps under my new company name, [34 Fame, LLC](https://github.com/34fame).
+### 34 Fame
+- Developed an equipment rental management system for business customer to track locations of equipment and drivers in real-time.  Backend deployed as serverless cloud function.  Client interfaces include Web SPA and native iOS.
+- Developed a web, consumer facing medical management system to help users manage their complex medical lives.  Currently has over 100 subscribers.
+- Developed a web & mobile, consumer facing educational banking application for families.  Parents manage accounts for their children and children to use the app to manage income and expenses.  Currently has over 340 subscribers.
 
-<ul>
-  <li>:heart: KeeperRx - Take control of your medical life!</li>
-  <li>:writing_hand: Conflux - You can make anything by writing!</li>
-</ul>
+### Identity Automation
+- Designed all aspects of the companies core application, RapidIdentity.  This product provides customers with a complete identity management service: identity lifecycle management, delegated administration, single sign-on, federation, multi-factor authentication, access management, and identity governance.  With over 600 customers across the globe, RapidIdentity has proven to be standard for identity management solutions.
+- Architected, built and sold the largest identity management system that has ever been implemented.  The service performs many functions including identity lifecycle management, federated identity management, and application portal, for school districts and charter schools for an entire state.  The service, built on AWS, handles over 200k provisioning events and 3M login events on a daily basis.  The service has had one outage that resulted in ~20 minutes of downtime in the span of 10 years.
+- Architected and led efforts to transform the product platform through its three phases:  on-premise, cloud-hosted, identity-as-a-service.  Initially, the RapidIdentity products were only available as on-premise, bare-metal or virtualized appliciances.  With the rapid improvements of cloud services, the product evolved to run natively in the AWS ecosystem and taking advantage of every service applicable.  Moving to a SaaS solution was a very cautious path as there was weekly news of hacks and breaches.  Using the latest cloud services and a certified security design, the move was made and within months was hosting a quarter of all customers.
 
-<h3>Find Me</h3>
+### Minute Maid Company
+- Recruited by previous executive manager.  Hired to migrate old Novell system to Microsoft (pre-Active Directory).  Convinced management to upgrade the Novell system to its latest release.  This saved over $100K in consulting fees alone.  The final implementation ended up changing the direction for The Coca-Cola Company as well.
+
+### VERITAS Software
+- Recruited by previous executive manager.  Designed and built the first full-featured, commercial implementation of IDM/IAM in the US.  This was the first project to bring together business processes between IT, HR, and core business departments.  The automation of granting and revoking access based on events in the HRMS was groundbreaking at the time.
+
+### Bank United
+- Immediately after leaving the Marine Corps, was hired as contractor to perform server maintenance.  Eventually led the project of replacing mainframe terminals at bank branches with modern PC/Server system.  Within three years become the youngest AVP in bank history with the responsibilities of managing all customer facing IT services.
+
+### United States Marine Corps
+- Developed numerous business systems for different units using COBOL, Visual Basic, Lotus Notes, and Ada.  At the ripe age of 19 was tasked with developing the application that would become the legal tracking system used across the entire Marine Corps.
+
+---
+
+## Find Me
 
 <p>
   <a href="https://graypes.medium.com">
@@ -39,7 +43,9 @@ I'm currently working on several apps under my new company name, [34 Fame, LLC](
   </a>
 </p>
 
-<h3>Core Tech Stack</h3>
+---
+
+## Technology Skills
 
 <p>
   <a href="https://quasar.dev">
@@ -65,32 +71,10 @@ I'm currently working on several apps under my new company name, [34 Fame, LLC](
 
 ---
 
-## Play
-
-<h3>Currently Playing</h3>
-
-In no particular order, here are the games I play with my kids:
-
-- Minecraft
-- Roblox
-- League of Legends
-- Overwatch
-- Call of Duty
-- Madden NFL
-
-<h3>PC Games from My Past</h3>
-
-Over the years I played a lot of games.  Here is a list of some of my old favorites.
-
-- Everquest
-- Star Wars - The Old Replublic
-- Civilization
-- Sim City
-- World of Warcraft
-- Wizards 101 (kids first MMO)
-- Diablo
-- Duke Nukem (Hail to the King, Baby!!)
-- Doom
-- Quake
-- Warcraft
-- Command & Conquer
+## Personal Interests
+- :notes: Music (former musician)
+- :man_teacher: Teaching and mentoring
+- :technologist: Coding fun projects
+- :video_game: Gaming with kids
+- :world_map: Traveling
+- :baseball: :football: :tennis: Sports
