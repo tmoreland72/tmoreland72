@@ -41,6 +41,9 @@
   <a href="https://www.linkedin.com/in/troy-moreland/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://medium.com/@graypes">
+    <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -51,8 +54,6 @@
   <a href="https://www.algolia.com">
     <img src="https://img.shields.io/badge/algolia-5468FF?style=for-the-badge&logo=algolia&logoColor=white" />
   </a>
-</p>
-
   <a href="https://aws.amazon.com">
     <img src="https://img.shields.io/badge/Amazon-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
