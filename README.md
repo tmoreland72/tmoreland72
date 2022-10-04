@@ -169,6 +169,30 @@
 
 ---
 
+## IQ Data
+BMI Certified IQ Test _(March 11, 2020)_
+### Score: 122 _("Above Average")_
+- Visual Perception: 8 _("Exceptional")_
+- Abstract Reasoning: 5 _("Average")_
+- Pattern Recognition: 8 _("Exceptional")_
+- Spatian Orientation: 6 _("Above Average")_
+- Analytical Thinking: 8 _("Exceptional")_
+
+---
+
+## Personality Type
+BMI Personality Test _(March 11, 2020)_
+
+### ISTP ("Artisan - Creators")
+
+> Logic-based troubleshooters, quick and efficient thinkings, incredibly good with hands.  Can respond with calmness and efficiency to any kind of crisis.
+
+> Action-oriented persons.  Dislike theories and do not enjoy analyzing facts. Belive that results is what matters most and will do whatever they can to reach a solid solution.
+- Energy: 60% Introverted
+- Learning Style: 70% Sensing
+- Nature: 62% Thinking
+- Strategy: 59% Perceiving
+
 ## Personal Interests
 - :notes: Music (former musician)
 - :man_teacher: Teaching and mentoring
